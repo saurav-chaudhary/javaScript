@@ -1,0 +1,102 @@
+{
+  "movies": [
+    {
+      "movieName": "Harry potter",
+      "id": 1
+    },
+    {
+      "movieName": "Pele",
+      "id": 2
+    },
+    {
+      "movieName": "Spider Man",
+      "id": 3
+    },
+    {
+      "movieName": "Tenet",
+      "id": 4
+    },
+    {
+      "movieName": "Fight Club",
+      "id": 5
+    },
+    {
+      "movieName": "Titanic",
+      "id": 6
+    },
+    {
+      "movieName": "Snowden",
+      "id": 7
+    },
+    {
+      "movieName": "Social Network",
+      "id": 8
+    },
+    {
+      "movieName": "Avenger",
+      "id": 9
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    }
+  ]
+}

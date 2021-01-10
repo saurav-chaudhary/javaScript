@@ -1,0 +1,21 @@
+{
+   
+  "movies":[
+      {
+      "id":1,
+      "name":"vikings"
+      },
+      {
+          "id":2,
+          "name":"Harry potter"
+      },
+      {
+          "id":3,
+          "name":"spderMan",
+          "path":"Images/spider.jpeg"
+          
+      }
+      
+  ]
+   
+}
